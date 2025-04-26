@@ -1,4 +1,4 @@
-# Pingora - dev
+# Pingora - dev s1
 
 ![Pingora banner image](./docs/assets/pingora_banner.png)
 
